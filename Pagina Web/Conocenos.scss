@@ -1,0 +1,51 @@
+ul{
+list-style: none;
+padding: 0;
+margin: 60px 0;
+
+li{
+
+  display: inline-block;
+
+  a{
+    text: {
+      decoration: none;
+      transform: uppercase;
+      align: center;
+    }
+
+    font:{
+      family: sans-serif;
+      size: 23px
+
+    }
+
+    color: antiquewhite;
+    padding: 20px;
+    background-color: #ff3333
+  }
+
+}
+
+}
+
+$widthH1: 400px;
+$w2: $widthH1 + 20px;
+
+body {
+
+  
+}
+
+h1{
+
+  background-color: #ff3333; 
+  padding: 20px;
+  width: $widthH1;
+}
+
+P{
+
+ 
+
+}
